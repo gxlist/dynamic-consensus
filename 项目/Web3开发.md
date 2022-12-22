@@ -1,3 +1,11 @@
+GitHub：
+https://github.com/ethereum/web3.py
+
+介绍：
+https://web3py.readthedocs.io/
+
+仿真区块链项目
+
 介绍： http://blog.hubwiz.com/2020/04/01/python-sim-blockchain/
 
 ```sh
